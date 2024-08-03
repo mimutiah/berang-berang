@@ -52,7 +52,7 @@ jupyter notebook Stage_1_FinPro_W.ipynb
 
 <b>Model Training</b>: Train the predictive model using the training dataset.
 
-<b>Evaluation</b>: Assess the model's performance on the test dataset using metrics like Accuracy, Precision, Recall, and AUC-ROC.
+<b>Evaluation</b>: Assess the model's performance on the test dataset.
 
 
 

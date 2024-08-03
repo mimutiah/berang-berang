@@ -1,11 +1,13 @@
 # Banking Marketing Targets Project
 
 ## Project Overview
-This project by <b>Berang-Berang Consulting</b> aims to enhance the effectiveness of marketing campaigns for a bank that promotes term deposit subscriptions via telephone calls. Our analysis utilizes the <b>"Banking Marketing Targets"</b> dataset to develop predictive models that identify potential customers likely to subscribe, thus enabling more targeted and cost-efficient marketing strategies.
+This project by <b>Berang-Berang Consulting</b> aims to enhance the effectiveness of marketing campaigns for a bank. Our analysis utilizes the <b>"Banking Marketing Targets"</b> dataset to develop predictive models that identify potential customers likely to subscribe, thus enabling more targeted and cost-efficient marketing strategies.
 
 ## Repository Contents
 <b>banking_train.xlsx</b>: Training dataset for model development.
+
 <b>banking_test.xlsx</b>: Test dataset for model evaluation.
+
 <b>Stage_1_FinPro_W.ipynb</b>: Jupyter Notebook containing the Exploratory Data Analysis (EDA), Pre-processing, and Outlier Handling.
 
 
